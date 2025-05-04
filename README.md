@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+💻 Currently working as a **Service Desk Analyst**
+
+🌱 Starting to learn **cloud development** using Azure
